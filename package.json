@@ -1,0 +1,12 @@
+{
+    "name": "pdf-comparator",
+    "version": "1.0.0",
+    "author": "Biki Talukdar",
+    "type": "module",
+    "dependencies": {
+        "pdf-lib": "^1.17.1",
+        "pdf-parser": "^1.0.5",
+        "pdfjs-dist": "^4.0.379",
+        "pdfreader": "^3.0.2"
+    }
+}
