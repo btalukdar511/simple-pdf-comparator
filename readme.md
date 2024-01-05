@@ -1,10 +1,10 @@
-### Simple-pdf-comparator
+# Simple-pdf-comparator
 
-# Requirements
+## Requirements
 
 Node.js version 18
 
-# Usage
+## Usage
 
 ```sh
 npm install
