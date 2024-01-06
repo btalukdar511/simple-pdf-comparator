@@ -35,7 +35,7 @@ async function comparePDFs(file1Url, file2Url) {
             const pdf2 = p2TextItems.map(item => item.str).join(' ');
 
             if (pdf1 !== pdf2) {
-                console.log('Files are different');
+                console.log('Files are different at page', i);
                 return;
             }
         }
